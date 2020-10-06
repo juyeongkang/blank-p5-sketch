@@ -34,7 +34,7 @@ let things = [{
       text("Click to Randomize.", 50,50);
 }
 
-  function draw() {ghjghj
+  function draw() {
 
   if(animating == true){
     ellipse(random(width), random(height), random (50, 200));
